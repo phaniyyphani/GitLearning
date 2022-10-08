@@ -1,1 +1,2 @@
 File created in FeatureBranch2
+We have edited the File 'FileCreatedInGit' after an file is created in Main branch directly
